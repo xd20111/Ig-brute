@@ -1,9 +1,10 @@
-# Instagram Bruter
+# Ig-brute
+### Instagram Bruter
 
 [![Version](https://img.shields.io/badge/Version-v2.1.1-blue)]()
 [![Python](https://img.shields.io/badge/Python-v3.6%2B-blue)]()
-[![Discord](https://img.shields.io/badge/Discord-server-blue)](https://discord.gg/C6AFrWQ)
-[![Donate](https://img.shields.io/badge/PayPal-donate-orange)](https://www.paypal.me/Msheikh03)
+[![Discord](https://img.shields.io/badge/Discord-server-blue)](https://discord.gg/)
+[![Donate](https://img.shields.io/badge/PayPal-donate-orange)](https://www.paypal.me/Vyshu101)
 
 This program will brute force any Instagram account you send it its way. Just give it a target, a password list and a mode then press enter and forget about it. No need to worry about anonymity when using this program, its highest priority is your anonymity, it only attacks when your identity is hidden.
 
@@ -13,7 +14,7 @@ I'm no longer maintaining this project.
 
 ### Support me
 
-> **Bitcoin wallet:** 3Kr5C9t9HWwPfqzSNXeBNyRvJWw9sSLeKy<br> >**PayPal:** https://www.paypal.me/Msheikh03
+> **googlepay:** mckid@ybl <br> >**PayPal:** https://www.paypal.me/Vyshu101
 
 ### Requirements
 
@@ -30,7 +31,7 @@ pip3 install -r requirements.txt
 ### Help
 
 ```
-C:\Users\Mohamed\Desktop\Instagram>python3 instagram.py -h
+C:\Users\Vyshu\Desktop\Instagram>python3 instagram.py -h
 usage: instagram.py [-h] [-m MODE] username wordlist
 
 positional arguments:
@@ -67,7 +68,7 @@ python3 instagram.py <username> <wordlist> -m <mode>
 This mode uses only 4 bots, or 64 passwords at a time.
 
 ```
-C:\Users\Mohamed\Desktop\Instagram>python3 instagram.py Sami09.1 pass.lst -m 3
+C:\Users\Vyshu\Desktop\Instagram>python3 instagram.py Sami09.1 pass.lst -m 3
 ```
 
 ### Moderate mode 1
@@ -75,7 +76,7 @@ C:\Users\Mohamed\Desktop\Instagram>python3 instagram.py Sami09.1 pass.lst -m 3
 This mode uses 8 bots, or 128 passwords at a time.
 
 ```
-C:\Users\Mohamed\Desktop\Instagram>python3 instagram.py Sami09.1 pass.lst -m 2
+C:\Users\Vyshu\Desktop\Instagram>python3 instagram.py Sami09.1 pass.lst -m 2
 ```
 
 ### Moderate mode 2
@@ -83,7 +84,7 @@ C:\Users\Mohamed\Desktop\Instagram>python3 instagram.py Sami09.1 pass.lst -m 2
 This mode uses 16 bots, or 256 passwords at a time.
 
 ```
-C:\Users\Mohamed\Desktop\Instagram>python3 instagram.py Sami09.1 pass.lst -m 1
+C:\Users\Vyshu\Desktop\Instagram>python3 instagram.py Sami09.1 pass.lst -m 1
 ```
 
 ### Savage mode
@@ -91,7 +92,7 @@ C:\Users\Mohamed\Desktop\Instagram>python3 instagram.py Sami09.1 pass.lst -m 1
 This mode uses 32 bots, or 512 passwords at a time.
 
 ```
-C:\Users\Mohamed\Desktop\Instagram>python3 instagram.py Sami09.1 pass.lst -m 0
+C:\Users\Vyshu\Desktop\Instagram>python3 instagram.py Sami09.1 pass.lst -m 0
 ```
 
 ### If you don't specify a mode, then mode is set to 2
